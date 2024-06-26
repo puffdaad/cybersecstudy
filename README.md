@@ -29,4 +29,4 @@
    ![create trail](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img4CT.png)
    ### Now you have created a cloudtraill logging on AWS
    in the next steps i will explain how to create cloudwatch on AWS
-   ![nijja(./AWS%20TASK%20WEEK%204/img1CT.png) 
+   ![nijja](./AWS%20TASK%20WEEK%204/img1CT.png) 
