@@ -6,27 +6,27 @@
 - Sign in with your AWS credentials.
 ### Step 2: Open the CloudTrail Console
 - In the AWS Management Console, type "CloudTrail" in the search bar and select **CloudTrail** from the results.
-![image explaining step2](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img1CT.png)
+![markdown logo](<AWS TASK WEEK 4/img1CT.png>)
 ### Step 3: Create a Trail
 1. **Create a New Trail**:
    - In the CloudTrail console, click on **Create trail**.
 2. **Configure Trail Settings**:
    - **Trail name**: Enter a name for your trail.
    - **Apply trail to all regions**: Select this option if you want the trail to log events from all regions.
-   ![graphical representation on creating a trail](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img2CT.png)
+   ![markdown logo](<AWS TASK WEEK 4/img2CT.png>) 
 3. **Configure Storage Location**:
    - **Create a new S3 bucket**: If you want CloudTrail to create a new S3 bucket to store log files.
    - **Specify an existing S3 bucket**: If you want to use an existing S3 bucket, provide the bucket name.
-   ![create new s3 bucket with a name of your choice](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img2CT.png)
+   ![markdown logo](<AWS TASK WEEK 4/img2CT.png>)
    - **select Data events and management events, scroll down and click create trail
-   ![graphical representation of the above mentioned step](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img3CT.png)g
+   ![markdown logo](<AWS TASK WEEK 4/img3CT.png>)
 4. **Optional Settings**:
    - **Log file SSE-KMS encryption**: Enable this option if you want to encrypt the log files using an AWS Key Management Service (KMS) key.
    - **CloudWatch Logs**: You can configure CloudTrail to send logs to CloudWatch Logs for real-time monitoring.
    - **SNS notification**: Optionally, configure Simple Notification Service (SNS) to receive notifications about log file delivery.
 5. **Create the Trail**:
    - Review the settings and click **Create trail**.
-   ![create trail](/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img4CT.png)
+   ![markdown logo](<AWS TASK WEEK 4/img4CT.png>)
    ### Now you have created a cloudtraill logging on AWS
    in the next steps i will explain how to create cloudwatch on AWS
-   ![nijja](./AWS%20TASK%20WEEK%204/img1CT.png) 
+   
