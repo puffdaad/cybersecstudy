@@ -29,5 +29,5 @@
    ![markdown logo](<AWS TASK WEEK 4/img4CT.png>)
    ### Now you have created a cloudtraill logging on AWS
    in the next steps i will explain how to create cloudwatch on AWS
-   ![markdown logo] (https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
+   ###![markdown logo](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
    
