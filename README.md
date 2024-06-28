@@ -31,3 +31,4 @@
    in the next steps i will explain how to create cloudwatch on AWS
    ![markdown logo](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
    ![alt text](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
+    ![markdown logo](<AWS%20TASK%20WEEK%204/img2CT.png>) 
