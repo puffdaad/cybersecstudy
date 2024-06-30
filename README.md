@@ -45,4 +45,5 @@
    ![alt text](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
 
     ![markdown logo](<AWS%20TASK%20WEEK%204/img2CT.png>) 
-    ![new image](https://github.com/puffdaad/cybersecstudy/assets/115902170/dd4d3fb3-69ab-4b68-90d5-91d419b87d08)
+
+    ![hello] (https://github.com/puffdaad/cybersecstudy/assets/115902170/dd4d3fb3-69ab-4b68-90d5-91d419b87d08)
