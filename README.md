@@ -33,23 +33,7 @@
 5. **Create the Trail**:
    - Review the settings and click **Create trail**.
 
-
    ![markdown logo](<AWS TASK WEEK 4/img4CT.png>)
    ### Now you have created a cloudtraill logging on AWS
-   in the next steps i will explain how to create cloudwatch on AWS
-
-
-   
-   ![markdown logo](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
-
-   ![alt text](https://github.com/puffdaad/cybersecstudy/blob/main/AWS%20TASK%20WEEK%204/img1CT.png)
-
-
- ![hello](https://github.com/puffdaad/cybersecstudy/assets/115902170/37777723-ecf5-436e-81fc-434a70c77f57)
-
-    
-![heelo](./Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img1CW.png)
-
-![hii](README.md/Users/mac/Desktop/cybersecstudy/AWS TASK WEEK 4/img4CT.png)
-
-![teesting](img5CT.png)
+![image showing the final step](img5CT.png)
+ in the next steps i will explain how to create cloudwatch on AWS
