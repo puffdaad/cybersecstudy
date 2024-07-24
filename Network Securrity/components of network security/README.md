@@ -15,7 +15,7 @@
 ### 3. Intrusion Detection and Prevention Systems (IDPS)
 **Definition**: Systems that monitor network traffic for suspicious activity and potential threats and can take action to prevent these threats.
 
-**How It Works**: IDPS solutions analyze network packets and logs to detect and respond to potential security incidents. Intrusion Detection Systems (IDS) alert administrators to possible attacks, while Intrusion Prevention Systems (IPS) can automatically block or mitigate harmful traffic. These systems use signature-based detection (identifying known threats by their unique patterns) and anomaly-based detection (identifying deviations from normal behavior that may indicate an attack).
+**How It Works**: IDPS solutions analyze network packets and logs to detect and respond to potential security incidents. Intrusion Detection Systems (IDS) alert administrators to possible attacks while Intrusion Prevention Systems (IPS) can automatically block or mitigate harmful traffic. These systems use signature-based detection (identifying known threats by their unique patterns) and anomaly-based detection (identifying deviations from normal behavior that may indicate an attack).
 
 **Importance**: IDPS enhances network security by providing real-time monitoring and automated responses to potential threats. This helps to quickly identify and neutralize attacks, minimizing damage and preventing unauthorized access.
 
